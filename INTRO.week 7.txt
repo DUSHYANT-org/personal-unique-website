@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dushyant Rana</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #090909;
+      color: #0e0e0e;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background: rgb(250, 253, 251);
+      padding: 20px;
+      border-radius: 8px;
+    }
+    img {
+      width: 120px;
+      border-radius: 50%;
+      display: block;
+      margin: 0 auto 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    p {
+      line-height: 1.6;
+    }
+    .contact {
+      margin-top: 20px;
+      text-align: center;
+   -decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+  <!-- Centered Image -->
+  <div style="text-align: center;">
+    <img src="https://img.theweek.in/content/dam/week/gallery/shots/2023/may-07-2023/people/72-Aryan-Khan.jpg" alt="Your Photo" style="width: 120px; border-radius: 50%;" />
+  </div>
+  
+  <div class="container">
+
+
+    <!-- Name and Bio -->
+    <h1>Dushyant Rana</h1>
+    <p>
+      Hello! I'm a student passionate about technology and wants to build a bright career. I am pursuing BBIS at LIHE. My hobbies include playing cricket every weekends. I am learning to play table tennis.
+
+    <!-- Contact Info -->
+    <div class="contact">
+      
+      <p>Email: <a href="mailto:someone@example.com">abc.com</a></p>
+
+    </div>
+  </div>
+</body>
+</html>
